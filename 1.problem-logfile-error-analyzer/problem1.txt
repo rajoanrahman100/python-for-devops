@@ -1,0 +1,8 @@
+1. Find Error from Log File
+--------------------
+Objective: Create a script to parse a log file and checks for errors in its lines. 
+
+Features:
+    - If an error is found, it prints the corresponding statement.
+
+Purpose: Understand log analysis for troubleshooting and monitoring.

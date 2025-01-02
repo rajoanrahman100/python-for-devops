@@ -1,0 +1,9 @@
+2. Log File Analyzer
+--------------------
+Objective: Create a script to parse and analyze server log files (e.g., Apache or Nginx logs).
+
+Features:
+    - Count requests by IP address.
+    - Identify the most requested pages.
+    - Extract error codes (e.g., 404, 500) with their frequencies.
+    - Purpose: Understand log analysis for troubleshooting and monitoring.

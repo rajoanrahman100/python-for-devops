@@ -1,0 +1,11 @@
+3. Automated Backup Script
+--------------------------
+
+Objective: Build a Python script to back up specified directories to an S3 bucket or local archive.
+
+Features:
+    - Compress files using zipfile or tarfile.
+    - Upload backups to an S3 bucket or save locally with timestamps.
+    - Send a notification (email/Slack) after backup completion.
+
+Purpose: Introduce automation and cloud storage concepts.
